@@ -1,2 +1,2 @@
 import healpy
-import scipy
+import matplotlib
