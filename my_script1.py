@@ -1,2 +1,2 @@
-import numpy
+import healpy
 import scipy
